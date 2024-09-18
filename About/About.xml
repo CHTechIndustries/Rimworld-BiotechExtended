@@ -1,11 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>Rimworld Biotech Extended</name> 
-		<authors>
-			<li>Author Name</li>
-			<li>Another Author Name</li>
-			<li>A Third Author Name</li>
-		</authors>
+	<author>CTH2004, Ferny</author>
 	<packageId>chtech.biotech.genesExtend</packageId> <!-- the ID will definitly change. the first 2 parts are good (might replace biotech with bio), but the last one... -->
 	<url>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core/wiki</url>
 	<modVersion>1.0.0</modVersion>
