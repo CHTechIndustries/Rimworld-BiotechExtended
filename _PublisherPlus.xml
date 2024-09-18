@@ -10,5 +10,6 @@
 	<exclude>About\Incomplete</exclude>
 	<exclude>About\Lists</exclude>
 	<exclude>PersonalLinks</exclude>
+	<exclude>About\Steam Descriptions</exclude>
   </Excluded>
 </Configuration>
