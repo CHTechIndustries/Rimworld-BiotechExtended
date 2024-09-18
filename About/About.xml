@@ -42,11 +42,6 @@
 			<displayName>Vanilla Genetics Expanded - More Lab Stuff</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2810324444</steamWorkshopUrl>
 		</li>
-		<li>
-			<packageId>ferny.progressiongenetics</packageId>
-			<displayName>Progression: Genetics</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3239506998</steamWorkshopUrl>
-		</li>
 	</modDependencies>
 	<loadAfter>
 		<li>chtech.devorder</li>
@@ -56,5 +51,6 @@
 		<li>smashphil.xmlpatchhelper</li>
 	</loadBefore>
 	<incompatibleWith>
+		<li>ferny.progressiongenetics</li>
 	</incompatibleWith>
 </ModMetaData>
