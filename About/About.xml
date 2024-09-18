@@ -50,6 +50,20 @@
 	</modDependencies>
 	<loadAfter>
 		<li>chtech.devorder</li>
+		
+		<!-- might trim this down some, but for now, keep this. these are the majority of current soft-compats. I think -->
+		<li>Ludeon.Rimworld</li>		
+		<li>Ludeon.Rimworld.Royalty</li>
+		<li>Ludeon.Rimworld.Ideology</li>
+		<li>Ludeon.Rimworld.Biotech</li>
+		<li>ferny.xenooranimalgenetics</li>
+		<li>VanillaExpanded.VGeneticsE</li>
+		<li>VanillaExpanded.VFEA</li>
+		<li>DanielWedemeyer.GeneRipper</li>
+		<li>sarg.alphagenes</li>
+		<li>resplice.xotr.core</li>
+		<li>VanillaExpanded.VGeneticsEMoreLabStuff</li>
+		<li>vanillaexpanded.achievements</li>
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
