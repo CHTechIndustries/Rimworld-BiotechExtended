@@ -2,7 +2,7 @@
 <ModMetaData>
 	<name>Rimworld Biotech Extended</name> 
 	<author>CTH2004 & Ferny</author>
-	<packageId>chtech.ModId</packageId> 
+	<packageId>chtech.biotech.genesExtend</packageId> <!-- the ID will definitly change. the first 2 parts are good (might replace biotech with bio), but the last one... -->
 	<url>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core/wiki</url>
 	<modVersion>1.0.0</modVersion>
 	<supportedVersions>
@@ -29,7 +29,7 @@ A: Uh... sure. There might be "unintented features" that we can't guarentee to f
 			<packageId>chtech.core</packageId>
 			<displayName>CHTechIndustries Core</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</steamWorkshopUrl>
-			<downloadUrl>https://github.com/CHTechIndustries/</downloadUrl>
+			<downloadUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</downloadUrl>
 		</li>
 		
 		<li>
