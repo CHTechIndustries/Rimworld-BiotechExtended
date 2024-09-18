@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>CHTechIndustries ModTemplate</name> 
-	<author>CHTech</author>
+	<name>Rimworld Biotech Extended</name> 
+	<author>CTH2004</author>
 	<packageId>chtech.ModId</packageId> 
 	<url>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core/wiki</url>
-	<modVersion>0.0.0</modVersion>
+	<modVersion>1.0.0</modVersion>
 	<supportedVersions>
 		<li>1.5</li>
 	</supportedVersions>
@@ -33,15 +33,20 @@ A: Uh... sure. There might be "unintented features" that we can't guarentee to f
 		</li>
 		
 		<li>
-			<packageId></packageId>
-			<displayName></displayName>
-			<steamWorkshopUrl></steamWorkshopUrl>
+			<packageId>vanillaexpanded.vgeneticse</packageId>
+			<displayName>Vanilla Genetics Expanded</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2801160906</steamWorkshopUrl>
 		</li>
 		<li>
-			<packageId></packageId>
-			<displayName></displayName>
-			<steamWorkshopUrl></steamWorkshopUrl>
-		</li>		
+			<packageId>vanillaexpanded.vgeneticsemorelabstuff</packageId>
+			<displayName>Vanilla Genetics Expanded - More Lab Stuff</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2810324444</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>ferny.progressiongenetics</packageId>
+			<displayName>Progression: Genetics</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3239506998</steamWorkshopUrl>
+		</li>
 	</modDependencies>
 	<loadAfter>
 		<li>chtech.devorder</li>
