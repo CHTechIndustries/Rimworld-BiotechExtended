@@ -1,3 +1,5 @@
 these are the archives. Why exactly did I make them? And why am I not explaining this in the README? I dunno
 
 Oh, it is in a readme. Good. But... what's with these extra files?! Why do I have so many un-deleted files that aren't archive-related?!
+
+I've edited the readme and this file everywhere! Are issues a-comin? Great... probally should save these 2 files...
