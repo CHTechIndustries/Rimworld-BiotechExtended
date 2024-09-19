@@ -1,0 +1,1 @@
+This was a branch that completly integrated the patches from Progresion: Genetics, in such a way that 1.4 had the patches and no hard reqrirment, and 1.5 had the hard reqrirments (will) have the content, and was ready
