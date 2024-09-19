@@ -1,1 +1,1 @@
-insert realitive redme
+should I use this instead of a .txt?
