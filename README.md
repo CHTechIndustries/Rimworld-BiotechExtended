@@ -1,1 +1,1 @@
-should I use this instead of a .txt?
+this is the archive. failled attempts at stuff, or branches that are never used, will be put in .zip files and merged into here
