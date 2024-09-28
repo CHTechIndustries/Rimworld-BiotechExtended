@@ -41,9 +41,15 @@
 			<displayName>Vanilla Genetics Expanded - More Lab Stuff</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2810324444</steamWorkshopUrl>
 		</li>
+		<li>
+			<packageId>vanillaexpanded.vfea</packageId>
+			<displayName>Vanilla Factions Expanded - Ancients</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2654846754</steamWorkshopUrl>
+		</li>
 	</modDependencies>
 	<loadAfter>
 		<li>chtech.devorder</li>
+		<li>Ludeon.RimWorld.Biotech</li>
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
